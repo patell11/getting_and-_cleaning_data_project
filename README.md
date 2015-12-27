@@ -4,6 +4,7 @@
    
    The objective of the project is to present the tidy set of data for further analysis obtained from the 
    [The UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones)
+   
    [The data set can be downloaded from here](https://d396qusza40orc.cloudfront.net/getdata%2Fprojectfiles%2FUCI%20HAR%20Dataset.zip) 
 
 ## Project Summary
@@ -16,4 +17,4 @@
        Appropriately labels the data set with descriptive variable names. 
         From the data set in step 4, creates a second, independent tidy data set with the average of each variable for each activity and          each subject.
         
-        You can find the additional information about the data variables and transformation  in the CODEBOOK.MD file
+##### You can find the additional information about the data variables and transformation  in the CODEBOOK.MD file
