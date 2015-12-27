@@ -1,11 +1,11 @@
- Coursera Getting and Cleaning Data Project
+ ## Coursera Getting and Cleaning Data Project
    
-   Overview
+   ## Overview
    
    The objective of the project is to present the tidy set of data for further analysis obtained from the 
    http://archive.ics.uci.edu/ml/datasets/Human+Activity+Recognition+Using+Smartphones
 
-Project Summary
+## Project Summary
 
  Once downloaded the file, unzip it and choose the path for the working directory.
  Then follow the follow the following instructions to create the tidy data and save the script with the name run_analysis.R
