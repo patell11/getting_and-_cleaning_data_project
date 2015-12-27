@@ -7,7 +7,7 @@
 
 Project Summary
 
- Once downloaded the file unzip it and choose the path for the working directory.
+ Once downloaded the file, unzip it and choose the path for the working directory.
  Then follow the follow the following instructions to create the tidy data and save the script with the name run_analysis.R
     Merges the training and the test sets to create one data set.
      Extracts only the measurements on the mean and standard deviation for each measurement. 
